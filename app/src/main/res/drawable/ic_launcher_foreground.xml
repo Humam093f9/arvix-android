@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+  <!-- Background gradient circle -->
+  <path android:fillColor="#0d9e6e"
+      android:pathData="M54,10 C30,10 10,30 10,54 C10,78 30,98 54,98 C78,98 98,78 98,54 C98,30 78,10 54,10 Z"/>
+  <!-- Letter A -->
+  <path android:fillColor="#e0f0ea"
+      android:pathData="M54,28 L35,80 L43,80 L48.5,65 L59.5,65 L65,80 L73,80 Z
+                        M54,40 L57.5,58 L50.5,58 Z"/>
+  <!-- Dollar sign line -->
+  <path android:fillColor="#12c887" android:strokeColor="#12c887" android:strokeWidth="2.5"
+      android:pathData="M68,36 L68,72"/>
+</vector>
